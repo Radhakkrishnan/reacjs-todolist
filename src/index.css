@@ -1,0 +1,39 @@
+*{
+    padding:0;
+    margin:0;
+}
+body{
+    font-family:"Exo 2",sans-serif;
+}
+.head{
+    max-width: 40%;
+    padding:1rem;
+    display: flex;
+   margin-left: 30%;
+   margin-top: 10%;
+    
+}
+.my-btn{
+    margin-left: 10px;
+}
+.heading{
+    text-align: center;
+    margin-top: 5%;
+}
+.my-list{
+    max-width: 40%;
+    margin-left: 30%;
+    margin-top: 2%;   
+}
+.edit-i{
+    margin-right: 10px;
+}
+.trash-i{
+    margin: 5px;
+}
+.my-list-item{
+    display: flex;
+    justify-content: space-between;
+    border:none;
+    border-bottom:0.5px solid rgb(159, 157, 157);
+} 
